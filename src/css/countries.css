@@ -1,0 +1,25 @@
+.wrapper {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.item {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  list-style: none;
+}
+
+.text {
+  font-weight: 700;
+}
+
+.card .name {
+  font-size: 40px;
+}
+
+.flags {
+  margin-right: 10px;
+  width: 60px;
+}
